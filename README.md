@@ -1,2 +1,1 @@
-# EXELocker
-Lock the "exe" flie
+# test-屏幕(可执行文件)锁

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "test-屏幕(可执行文件)锁\\x64\\Debug\\Resource.obj",
+            "outputs": [
+                "test-屏幕(可执行文件)锁\\x64\\Debug\\Resource.h.obj.dt.module.json",
+                "test-屏幕(可执行文件)锁\\x64\\Debug\\Resource.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

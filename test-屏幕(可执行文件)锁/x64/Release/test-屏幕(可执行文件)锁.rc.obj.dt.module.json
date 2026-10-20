@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "test-屏幕(可执行文件)锁\\x64\\Release\\test-屏幕(可执行文件)锁.obj",
+            "outputs": [
+                "test-屏幕(可执行文件)锁\\x64\\Release\\test-屏幕(可执行文件)锁.rc.obj.dt.module.json",
+                "test-屏幕(可执行文件)锁\\x64\\Release\\test-屏幕(可执行文件)锁.rc.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
